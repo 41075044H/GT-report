@@ -7,5 +7,5 @@
 # 課程筆記
 # 作業連結
 [test_001](https://github.com/41075044H/GT-report/blob/main/test_001.md)<br />
-[HW1:找一組教育相關資料提問十個問題，使用Pandas回答](https://github.com/41075044H/GT-report/blob/main/HW1.ipynb)<br />
+[HW1:找一組教育相關資料提問十個問題，使用Pandas回答]()<br />
 # 專題連結
