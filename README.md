@@ -6,5 +6,6 @@
 系級:電機系2年級<br />
 # 課程筆記
 # 作業連結
-[test_001](https://github.com/41075044H/GT-report/blob/main/test_001.md)
+[test_001](https://github.com/41075044H/GT-report/blob/main/test_001.md)<br />
+[HW1](https://github.com/41075044H/GT-report/blob/main/HW1.ipynb)<br />
 # 專題連結
